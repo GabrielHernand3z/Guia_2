@@ -1,0 +1,9 @@
+com\impuestoscarro\view\ImpuestosView.class
+com\impuestoscarro\model\TipoUso.class
+com\impuestoscarro\controller\ImpuestosController.class
+com\impuestoscarro\model\TablaTarifas.class
+com\impuestoscarro\model\ResultadoCalculo.class
+com\impuestoscarro\model\Vehiculo.class
+com\impuestoscarro\App.class
+com\impuestoscarro\model\CalculadoraImpuestos.class
+com\impuestoscarro\model\Tarifa.class
